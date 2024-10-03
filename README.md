@@ -60,5 +60,7 @@ SuperSnake is a frontend-focused application with the primary logic and renderin
 
 ### License
 
-The project is proprietary (not open source). Copyright (c) 2024.
+GPLv3
+
+#### This game is written by [GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot)
 
