@@ -1,4 +1,3 @@
-```markdown
 # SuperSnake
 
 SuperSnake is a modern rendition of the classic Snake game. You control the snake on a block-wise field, guiding it to eat apples and grow longer. The game ends when the snake crashes into the window border or its own tail. The game tracks the score (number of apples eaten) and the time elapsed from the game start. At the end of the game, the top 5 high scores are displayed and stored in a text file in the game's directory.
@@ -62,4 +61,4 @@ SuperSnake is a frontend-focused application with the primary logic and renderin
 ### License
 
 The project is proprietary (not open source). Copyright (c) 2024.
-```
+
